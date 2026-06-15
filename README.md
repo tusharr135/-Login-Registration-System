@@ -78,27 +78,6 @@ After completing this project, you will understand:
 
 ---
 
-## How to Run
-
-### Step 1
-
-Install Python 3.
-
-### Step 2
-
-Save the code as:
-
-```text
-main.py
-```
-
-### Step 3
-
-Run the program:
-
-```bash
-python login_registration.py
-```
 
 ---
 
@@ -106,6 +85,6 @@ python login_registration.py
 
 **Tushar Raut**
 
-B.Sc Computer Science Student
+B.Sc Computer Science Graduated
 
 Python | Web Development | AI Enthusiast 🚀
